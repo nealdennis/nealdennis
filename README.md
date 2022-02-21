@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @nealdennis
-- 👀 I’m interested in Full-Stack JavaScript
+- 👀 I’m interested in Front End Development
 - 🌱 I’m currently learning React and Blockchain
 
 <!---
